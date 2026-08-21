@@ -100,8 +100,8 @@
 
 
 
-//**********Hierarchy of Operators**********:-
-//"Brackets have highest hierarchy then comes (*, /, %) then comes (+, -)".
+// **********Hierarchy of Operators**********:-
+// "Brackets have highest hierarchy then comes (*, /, %) then comes (+, -)".
 // "Hierarchy of *(multiplication), / (division) is more than that of +(addition),-(subtraction)".
 // "If operators have same hierarchy then it will go from left to right."
 
